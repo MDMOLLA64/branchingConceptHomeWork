@@ -56,6 +56,7 @@ public class BaseTest {
   public void beforeTest() {
 	  
 	  System.out.println("beforeTest");
+	  System.out.println("beforeflhalsfkTest");
   }
 
   @AfterTest
