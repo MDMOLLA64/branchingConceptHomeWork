@@ -1,0 +1,23 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="wednesday">
+<test name ="smoketest">
+<classes >
+<class name="com.bit.ui.test.RegresstonTest">
+
+<methods>
+<include name="test3">
+
+</include>
+
+</methods>
+
+
+</class>
+
+</classes>
+
+
+</test>
+
+
+</suite>
